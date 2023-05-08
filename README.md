@@ -79,7 +79,7 @@ Take a look at what data you have available for each dish and try to render it a
 
 We want to be able to filter the list of dishes by minimum and maximum price. To do this we'll need to create two [range inputs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range). Create some state to represent the range values.
 
-You can refer back to the [introduction to controlled components](https://github.com/ali-7/react-forms) if you need to.
+You can refer back to the [introduction to controlled components](https://github.com/GSG-CA/react-forms-using-hooks) if you need to.
 
 It can be a good idea to group and label related elements using the [fieldset](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset) element.
 
